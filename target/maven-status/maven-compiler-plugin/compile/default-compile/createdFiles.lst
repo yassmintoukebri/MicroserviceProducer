@@ -1,0 +1,13 @@
+com\microservices\springkafkaproducer\serviceinterface\InterfaceGeneric.class
+com\microservices\springkafkaproducer\repo\OrderCRUD.class
+com\microservices\springkafkaproducer\service\OrderService.class
+com\microservices\springkafkaproducer\exception\EntityDoesNotExistException.class
+com\microservices\springkafkaproducer\controller\OrderController.class
+com\microservices\springkafkaproducer\service\UserService.class
+com\microservices\springkafkaproducer\bean\Order.class
+com\microservices\springkafkaproducer\config\SwaggerConfiguration.class
+com\microservices\springkafkaproducer\enums\Enum.class
+com\microservices\springkafkaproducer\repo\UserCRUD.class
+com\microservices\springkafkaproducer\SpringkafkaproducerApplication.class
+com\microservices\springkafkaproducer\controller\UserController.class
+com\microservices\springkafkaproducer\bean\User.class
